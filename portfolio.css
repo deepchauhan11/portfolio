@@ -1,0 +1,7 @@
+.home .container-fluid .row img{
+    width: 340px;
+    height: 340px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+}
